@@ -1,39 +1,39 @@
 ---
-manufacturer: 
-    - vivo
+制造商:
+- vivo
 
 ---
 
 
-## Autostart
+##自动启动
 
-Based on the information by Vivo, this option should be present on all Vivo phones.<br>
-Newer OS version: *Settings > More settings > Applications > Autostart* to turn on/off the app switch.<br>
-For Funtouch OS 2.6 and lower version: *i Manager > App manager > Autostart manager* to turn on/off the app switch.
+根据Vivo提供的信息，所有Vivo手机都应提供该选项。<英国铁路公司>
+较新的操作系统版本:*设置>更多设置>应用程序>自动启动*打开/关闭app开关。<英国铁路公司>
+对于Funtouch OS 2.6及更低版本:*我的管理器>应用管理器>自动启动管理器*打开/关闭app开关。
 
-## Unrestricted battery usage
+##无限制的电池使用
 
-As reported from the Android 13 version; you can set a non-restricted battery usage for each app individually.
+从Android 13版本报道来看；您可以为每个应用程序单独设置无限制的电池使用。
 
-<div class="img-block">
-  <figure>
-    <img src="/assets/img/vivo/vivo_battery_unrestricted.jpg">
-    <figcaption> System settings → the app of your choice → Battery </figcaption>
-  </figure>
+<差异班级="图像块">
+  <数字>
+    <img科学研究委员会="/assets/img/vivo/vivo _ battery _ unrestricted . jpg ">
+    <图片标题>系统设置→您选择的应用程序→电池</图片标题>
+  </数字>
 
-</div>
+</差异>
 
-## Background power usage restrictions
+##后台用电限制
 
-Also reported from Android 13, can be set up for each app in the Battery section.
+同样是从Android 13报道的，可以在电池部分为每个app设置。
 
-<div class="img-block">
-  <figure>
-    <img src="/assets/img/vivo/vivo_background_power_usage.jpg">
-    <figcaption> Setting  → Battery  → Background power consumption management </figcaption>
-  </figure>
+<差异班级="图像块">
+  <数字>
+    <img科学研究委员会="/assets/img/vivo/vivo _ background _ power _ usage . jpg ">
+    <图片标题>设置→电池→后台功耗管理</图片标题>
+  </数字>
 
-</div>
+</差异>
 
 
 
